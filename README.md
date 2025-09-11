@@ -39,6 +39,7 @@ bash -c "$(curl -fsSL https://gitee.com/juvenile-with-hemorrhoids/fanqienovel/ra
 
 - 请仅下载已获得授权或公共领域的小说
 - 尊重作者版权，下载内容仅限个人使用
+- 工具使用了兔兔开源项目的0404算法
 
 ## 问题反馈
 
